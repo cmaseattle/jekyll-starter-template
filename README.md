@@ -3,7 +3,9 @@ jekyll-starter-template
 
 Bare bones Jekyll template and install instructions. 
 
-**Assumes you have git and rubygems working properly.*
+##Setup & Install*
+
+*Assumes you have git and rubygems working properly.
 
 1. Open terminal
 2. Update Ruby Gems: `sudo gem update --system` - *requires system password*
