@@ -1,3 +1,6 @@
+# base URL for your site - this is set to /jekyll-starter-template on here for showcase purposes on gh-pages
+baseurl: /jekyll-starter-template
+
 # site runs locally at localhost:4000 when you run `jekyll serve --watch`
 port:  4000
 
@@ -6,4 +9,3 @@ encoding: utf-8
 
 # include Pygments for syntax highlighting
 pygments: true
-
