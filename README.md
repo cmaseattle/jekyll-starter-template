@@ -1,7 +1,7 @@
 jekyll-starter-template
 =======================
 
-Bare bones Jekyll template and install instructions. 
+Bare bones Jekyll template and install instructions. [View a preview](http://cmaseattle.github.io/jekyll-starter-template)
 
 ##Setup & Install*
 
