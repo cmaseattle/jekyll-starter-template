@@ -10,4 +10,3 @@ encoding: utf-8
 
 # include Pygments for syntax highlighting
 pygments: true
-
